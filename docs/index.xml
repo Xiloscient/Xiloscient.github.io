@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://xiloscient.github.io/</link>
+    <link>https://xiloscient.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 18:17:08 +0100</lastBuildDate><atom:link href="http://xiloscient.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 18:17:08 +0100</lastBuildDate><atom:link href="https://xiloscient.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyPost</title>
-      <link>http://xiloscient.github.io/posts/mypost/</link>
+      <link>https://xiloscient.github.io/posts/mypost/</link>
       <pubDate>Sun, 19 Feb 2023 18:17:08 +0100</pubDate>
       
-      <guid>http://xiloscient.github.io/posts/mypost/</guid>
-      <description>Introduction This is bold text, and this is emphasized text. This should now work.
+      <guid>https://xiloscient.github.io/posts/mypost/</guid>
+      <description>Introduction This is bold text, and this is emphasized text. This should now work. THIS TEXT SHOULD BE ADDED
 Visit the Hugo website!</description>
     </item>
     
