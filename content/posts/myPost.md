@@ -7,6 +7,7 @@ draft: false
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text. This should now work.
+**THIS TEXT SHOULD BE ADDED**
 
 Visit the [Hugo](https://gohugo.io) website!
 
