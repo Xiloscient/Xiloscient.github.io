@@ -8,6 +8,7 @@ draft: false
 
 This is **bold** text, and this is *emphasized* text. This should now work.
 **THIS TEXT SHOULD BE ADDED**
+Text 4 Elias
 
 Visit the [Hugo](https://gohugo.io) website!
 
