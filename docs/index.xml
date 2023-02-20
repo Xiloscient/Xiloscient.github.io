@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://xiloscient.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Felix Kunze&#39;s Blog</title>
+    <link>https://felixkunze.xyz/</link>
+    <description>Recent content on Felix Kunze&#39;s Blog</description>
+    <image>
+      <title>Felix Kunze&#39;s Blog</title>
+      <url>https://felixkunze.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://felixkunze.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 18:17:08 +0100</lastBuildDate><atom:link href="https://xiloscient.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 15:32:12 +0100</lastBuildDate><atom:link href="https://felixkunze.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MyPost</title>
-      <link>https://xiloscient.github.io/posts/mypost/</link>
-      <pubDate>Sun, 19 Feb 2023 18:17:08 +0100</pubDate>
+      <title>Quantum_computing</title>
+      <link>https://felixkunze.xyz/posts/quantum_computing/</link>
+      <pubDate>Mon, 20 Feb 2023 15:32:12 +0100</pubDate>
       
-      <guid>https://xiloscient.github.io/posts/mypost/</guid>
-      <description>Introduction This is bold text, and this is emphasized text. This should now work. THIS TEXT SHOULD BE ADDED Text 4 Elias
-Visit the Hugo website!</description>
+      <guid>https://felixkunze.xyz/posts/quantum_computing/</guid>
+      <description>Quantum Computing Quantum Computing is based. I do not know anything about it.</description>
+    </item>
+    
+    <item>
+      <title>Creating a static Website</title>
+      <link>https://felixkunze.xyz/posts/creating_a_static_website/</link>
+      <pubDate>Mon, 20 Feb 2023 15:12:23 +0100</pubDate>
+      
+      <guid>https://felixkunze.xyz/posts/creating_a_static_website/</guid>
+      <description>Using HUGO to create a static website After quite some thought I settled on using hugo to build this blog page. It allows me to easily write $\LaTeX$ as well code since it renders it all in Markdown. Since I already have a large amount of .md notes integration is seamless. On top of that it integrates particularlt well with github-pages, which I am using to host this site.</description>
     </item>
     
   </channel>

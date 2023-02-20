@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://felixkunze.xyz/sitemap.xml

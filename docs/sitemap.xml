@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiloscient.github.io/</loc>
-    <lastmod>2023-02-19T18:17:08+01:00</lastmod>
+    <loc>https://felixkunze.xyz/</loc>
+    <lastmod>2023-02-20T15:32:12+01:00</lastmod>
   </url><url>
-    <loc>https://xiloscient.github.io/posts/mypost/</loc>
-    <lastmod>2023-02-19T18:17:08+01:00</lastmod>
+    <loc>https://felixkunze.xyz/posts/</loc>
+    <lastmod>2023-02-20T15:32:12+01:00</lastmod>
   </url><url>
-    <loc>https://xiloscient.github.io/posts/</loc>
-    <lastmod>2023-02-19T18:17:08+01:00</lastmod>
+    <loc>https://felixkunze.xyz/posts/quantum_computing/</loc>
+    <lastmod>2023-02-20T15:32:12+01:00</lastmod>
   </url><url>
-    <loc>https://xiloscient.github.io/categories/</loc>
+    <loc>https://felixkunze.xyz/posts/creating_a_static_website/</loc>
+    <lastmod>2023-02-20T15:12:23+01:00</lastmod>
   </url><url>
-    <loc>https://xiloscient.github.io/tags/</loc>
+    <loc>https://felixkunze.xyz/categories/</loc>
+  </url><url>
+    <loc>https://felixkunze.xyz/tags/</loc>
   </url>
 </urlset>
