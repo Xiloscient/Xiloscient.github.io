@@ -1,4 +1,4 @@
-baseURL = 'https://xiloscient.github.io/'
+baseURL = 'https://felixkunze.xyz/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
