@@ -8,7 +8,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 publishDir: docs
-math: true
 
 googleAnalytics: UA-123-45
 
@@ -79,12 +78,12 @@ params:
     Content: Hello, you have reached my blog. Perhaps below there is something of interest.
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: email
+      url: "mailto:fkunze@ethz.ch"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/Xiloscient"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/felix-kunze-948051219/"
 
   analytics:
     google:
@@ -100,7 +99,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Xiloscient/xiloscient.githun.io"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -124,13 +123,13 @@ menu:
       name: Tutorials
       url: /tutorials/
       weight: 20
-    - identifier: home
-      name: Home
-      url: https://felixkunze.xyz
-      weight: 30
     - identifier: portfolio
       name: Portfolio
       url: /portfolio/index.html
+      weight: 30
+    - identifier: home
+      name: Home
+      url: https://felixkunze.xyz
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -142,4 +141,3 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
