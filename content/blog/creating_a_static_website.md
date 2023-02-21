@@ -10,3 +10,4 @@ It allows me to easily write $\LaTeX$ as well `code` since it renders it all in 
 Since I already have a large amount of `.md` notes integration is seamless.
 On top of that it integrates particularlt well with github-pages, which I am using to host this site.
 
+$$1+1 \frac{1}{1}$$

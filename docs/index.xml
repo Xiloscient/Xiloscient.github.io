@@ -35,7 +35,8 @@
       <pubDate>Mon, 20 Feb 2023 15:12:23 +0100</pubDate>
       
       <guid>https://felixkunze.xyz/blog/creating_a_static_website/</guid>
-      <description>Using HUGO to create a static website After quite some thought I settled on using hugo to build this blog page. It allows me to easily write $\LaTeX$ as well code since it renders it all in Markdown. Since I already have a large amount of .md notes integration is seamless. On top of that it integrates particularlt well with github-pages, which I am using to host this site.</description>
+      <description>Using HUGO to create a static website After quite some thought I settled on using hugo to build this blog page. It allows me to easily write $\LaTeX$ as well code since it renders it all in Markdown. Since I already have a large amount of .md notes integration is seamless. On top of that it integrates particularlt well with github-pages, which I am using to host this site.
+$$1+1 \frac{1}{1}$$</description>
     </item>
     
   </channel>
