@@ -84,6 +84,8 @@ params:
       url: "https://github.com/Xiloscient"
     - name: linkedin
       url: "https://www.linkedin.com/in/felix-kunze-948051219/"
+    - name: twitter
+      url: "https://twitter.com/PandoXiloscient"
 
   analytics:
     google:
