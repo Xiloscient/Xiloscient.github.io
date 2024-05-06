@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:58222/log/test1/</loc>
+    <loc>http://localhost:1313/log/test1/</loc>
   </url><url>
-    <loc>http://localhost:58222/log/test2/</loc>
+    <loc>http://localhost:1313/log/test2/</loc>
   </url><url>
-    <loc>http://localhost:58222/posts/trash_post2/</loc>
+    <loc>http://localhost:1313/posts/trash_post2/</loc>
   </url><url>
-    <loc>http://localhost:58222/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:58222/log/</loc>
+    <loc>http://localhost:1313/log/</loc>
   </url><url>
-    <loc>http://localhost:58222/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
   </url>
 </urlset>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Doe on Felix Kunze</title>
-    <link>http://localhost:58222/log/</link>
+    <link>http://localhost:1313/log/</link>
     <description>Recent content in John Doe on Felix Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:58222/log/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>a title</title>
-      <link>http://localhost:58222/log/test1/</link>
+      <link>http://localhost:1313/log/test1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58222/log/test1/</guid>
+      <guid>http://localhost:1313/log/test1/</guid>
       <description>The fundamental concepts of classical physics, space, time, mass, and derived concepts, velocity, momentum, force, angular momentum, energy &amp;hellip; all rest on the principle that material points have trajectories. They are defined as lines in space-time. Even the dynamics of continuous, solid, or fluid media describe the trajectories of the material points which constitute the bodies in motion. But the indeterminacy relation of Heisenberg prevents quantum particles from having such classical trajectories since their position and velocity can not be exactly defined at the same time.</description>
     </item>
     <item>
       <title>a title, again</title>
-      <link>http://localhost:58222/log/test2/</link>
+      <link>http://localhost:1313/log/test2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58222/log/test2/</guid>
+      <guid>http://localhost:1313/log/test2/</guid>
       <description>The fundamental concepts of classical physics, space, time, mass, and derived concepts, velocity, momentum, force, angular momentum, energy &amp;hellip; all rest on the principle that material points have trajectories. They are defined as lines in space-time. Even the dynamics of continuous, solid, or fluid media describe the trajectories of the material points which constitute the bodies in motion. But the indeterminacy relation of Heisenberg prevents quantum particles from having such classical trajectories since their position and velocity can not be exactly defined at the same time.</description>
     </item>
   </channel>
