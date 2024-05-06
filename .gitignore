@@ -1,0 +1,6 @@
+.DS_Store
+resources
+public
+.hugo_build.lock
+template.md
+content/log/log_images

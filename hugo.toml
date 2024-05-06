@@ -1,0 +1,41 @@
+baseURL = 'https://felixkunze.xyz'
+languageCode = 'en-us'
+title = 'Felix Kunze'
+disableKinds = ["taxonomy", "term"]
+
+[menu]
+[[menu.main]]
+  identifier = 'home'
+  name = 'home'
+  title = 'John Doe | home'
+  url = '/'
+  weight = 10
+[[menu.main]]
+  identifier = 'posts'
+  name = 'posts'
+  title = 'John Doe | posts'
+  url = '/posts/'
+  weight = 20
+[[menu.main]]
+  identifier = 'log'
+  name = 'log'
+  title = 'John Doe | log'
+  url = '/log/'
+  weight = 30
+  
+[[menu.socials]]
+  name = 'github'
+  url = 'https://github.com/Xiloscient'
+  weight = 10
+[[menu.socials]]
+  name = 'twitter'
+  url = 'https://twitter.com/PandoXiloscient'
+  weight = 20
+
+[params]
+  description = 'The fundamental concepts of classical physics, space, time, mass, and derived concepts, velocity, momentum, force, angular momentum, energy'
+  images = ['favicon-32x32.png']
+  title = 'LMAO'
+
+[outputs]
+  home = ['html']

@@ -1,0 +1,77 @@
+:root {
+    --bg-color: #f1f1f1;
+    --text-color: #333;
+    --link-color: #0000EE;
+    --gray-accent-color: #dedede;
+}
+
+body {
+    margin: auto;
+    padding: 0ch 1ch;
+    max-width: 60ch;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+@font-face {
+    font-family: 'CommitMono';
+    src: url('/fonts/CommitMono-400-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommitMono';
+    src: url('/fonts/CommitMono-400-Italic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+  
+@font-face {
+    font-family: 'CommitMono';
+    src: url('/fonts/CommitMono-700-Regular.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CommitMono';
+    src: url('/fonts/CommitMono-700-Italic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: underline;
+    color: var(--link-color);
+}
+
+#site-navbar,
+#site-footer {
+    background-color: var(--gray-accent-color);
+}
+  
+#site-navbar > a, 
+#site-footer > a {
+    text-decoration: underline;
+    color: var(--link-color);
+}
+
+#site-navbar > a:before, 
+#site-footer > a:before {
+    display: inline-block;
+    content: "[";
+}
+#site-navbar > a:after, 
+#site-footer > a:after {
+    display: inline-block;
+    content: "]";
+}
+
+.section {
+    margin: 2ch 0ch;
+}
