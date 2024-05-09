@@ -6,9 +6,7 @@ main > ul, main > ol {
     padding-inline-start: 2ch;
 }
 
-ul:last-of-type {
-    list-style-position: outside;
-}
+ul:last-of-type { list-style-position: outside; }
 
 li {
   display: list-item;
@@ -27,25 +25,16 @@ main > ul > li:before {
   text-transform: none;
 }
 
-main > p
-{ 
-    margin-bottom: 1ch;
-}
+main > p { margin-bottom: 1ch; }
 
-main > ol 
-{
-    margin-left: 2ch;
-}
+main > ol { margin-left: 2ch; }
 
-ol 
-{
+ol {
     counter-reset: list;
     position: relative;
 }
 
-ol > li {
-    list-style: none;
-}
+ol > li { list-style: none; }
 ol > li:before {
     content: "("counter(list) ")";
     counter-increment: list;
@@ -58,33 +47,42 @@ a {
     color: var(--link-color);
 }
 
-hr {
-    margin-bottom: 1ch;
-}
+hr { margin-bottom: 1ch; }
 
 blockquote {
-  background: #f9f9f9;
+  background: #282828;
   margin: 0.5em 0;
   padding: 0.5em 10px;
   font-style: italic;
 }
 
-blockquote p {
-  display: inline;
-}
+blockquote p { display: inline; }
 
 pre {
     margin-bottom: 1ch;
     padding: 1ch;
     background-color: black;
-    color: var(--bg-color);
     border-radius: 4px;
     overflow-x: scroll;
 }
 
 code {
-    color: var(--bg-color);
     background-color: black;
     border-radius: 4px;
-    padding: 1px 2px;
+    /* padding: 1px 2px; */
+}
+
+h1:before {
+  content: "# ";
+  color: #b8bb26
+}
+
+h2:before {
+  content: "## ";
+  color: #b8bb26
+}
+
+h3:before {
+  content: "### ";
+  color: #b8bb26
 }

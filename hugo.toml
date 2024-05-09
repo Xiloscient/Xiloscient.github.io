@@ -2,27 +2,34 @@ baseURL = 'https://felixkunze.xyz'
 languageCode = 'en-us'
 title = 'Felix Kunze'
 disableKinds = ["taxonomy", "term"]
+pygmentsCodeFences = true
 
 [menu]
 [[menu.main]]
   identifier = 'home'
   name = 'home'
-  title = 'John Doe | home'
+  title = 'Felix Kunze | home'
   url = '/'
   weight = 10
 [[menu.main]]
   identifier = 'posts'
   name = 'posts'
-  title = 'John Doe | posts'
+  title = 'Felix Kunze | Writings'
   url = '/posts/'
   weight = 20
 [[menu.main]]
-  identifier = 'log'
-  name = 'log'
-  title = 'John Doe | log'
-  url = '/log/'
+  identifier = 'work'
+  name = 'work'
+  title = 'Felix Kunze | work'
+  url = '/work/'
   weight = 30
-  
+#[[menu.main]]
+#  identifier = 'thoughts'
+#  name = 'thoughts'
+#  title = 'Felix Kunze | thoughts'
+#  url = '/thoughts/'
+#  weight = 40
+
 [[menu.socials]]
   name = 'github'
   url = 'https://github.com/Xiloscient'
@@ -33,9 +40,24 @@ disableKinds = ["taxonomy", "term"]
   weight = 20
 
 [params]
-  description = 'The fundamental concepts of classical physics, space, time, mass, and derived concepts, velocity, momentum, force, angular momentum, energy'
-  images = ['favicon-32x32.png']
-  title = 'LMAO'
+  title = "Felix Kunze's Website"
 
 [outputs]
   home = ['html']
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = false
+    noHl = false
+    style='gruvbox'
+    tabWidth = 4

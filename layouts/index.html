@@ -2,21 +2,18 @@
 <link rel="stylesheet" href="/preflight.css">
 <link rel="stylesheet" href="/main.css">
 <link rel="stylesheet" href="/home.css">
+<link rel="stylesheet" href="/syntax.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
 {{ end }}
 
 {{ define "seo" }}
-<meta property="og:image" content="{{ .Site.BaseURL }}one_life.png" />
-<script type="application/ld+json">
-{
+<script type="application/ld+json"> {
     "@context": "https://schema.org/",
-    "@type": "ImageObject",
-    "contentUrl": "{{ .Site.BaseURL }}one_life.png",
-    "creditText": "John Doe",
-    "creator": {
-        "@type": "Organization",
-        "name": "John Doe"
-    },
-    "copyrightNotice": "John Doe"
+    "@type": "WebSite",
+    "url": "{{ .Site.BaseURL }}"
 }
 </script>
 {{ end }}
@@ -26,7 +23,6 @@
     {{ partial "navigation.html" . }}
     <div id="hero" class="section">
         <h1>{{ .Params.title }}</h1>
-        <p>{{ .Site.Params.description }}</p>
     </div>
 </header>
 {{ end }}

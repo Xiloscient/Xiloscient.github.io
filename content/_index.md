@@ -1,21 +1,16 @@
 ---
-title: Felix Kunze's shit
+title: Felix's blog
 ---
 
-
-# About me
----
-all rest on the principle that material points have trajectories. They are defined as lines in space-time. Even the dynamics of continuous, solid, or fluid media describe the trajectories of the material points which constitute the bodies in motion. But the indeterminacy relation of Heisenberg prevents quantum particles from having such classical trajectories since their position and velocity can not be exactly defined at the same time. How then can it explain all the appearances which legitimize the fundamental concepts of classical physics?
+I'm an electrical engineering student at ETH Zurich. Currently I'm involved
+with student rocketry as well as working on the occasional personal project. I
+want this to be a hub for the random blurb and occasionally some more thought
+out writings or book reviews.\
+Feel free to email me under: <a href="mailto:me@felixkunze.xyz">me@felixkunze.xyz</a>
 
 # Projects
 ---
-- here's a list of stuff I've been building
-- here's a list of stuff I've been building
-- here's a list of stuff I've been building
-- here's a list of stuff I've been building
-# Writings
----
-- Find my posts below
-- Find my posts below
-- Find my posts below
-- Find my posts below
+ - This is a linked article: [lmao](/posts/second_post)
+
+Followed by some text
+
