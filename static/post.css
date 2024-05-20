@@ -42,6 +42,11 @@ ol > li:before {
     left: -2ch;
 }
 
+
+h1:before { content: "# "; }
+h2:before { content: "## "; }
+h3:before { content: "### "; }
+
 a {
     text-decoration: underline;
     color: var(--link-color);
@@ -69,20 +74,4 @@ pre {
 code {
     background-color: black;
     border-radius: 4px;
-    /* padding: 1px 2px; */
-}
-
-h1:before {
-  content: "# ";
-  color: #b8bb26
-}
-
-h2:before {
-  content: "## ";
-  color: #b8bb26
-}
-
-h3:before {
-  content: "### ";
-  color: #b8bb26
 }
