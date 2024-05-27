@@ -1,4 +1,4 @@
 ---
 title: Felix Kunze
-subtitle: Project Reports
+subtitle: Miscellaneous
 ---
