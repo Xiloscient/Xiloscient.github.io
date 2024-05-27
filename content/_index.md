@@ -12,6 +12,6 @@ Feel free to email me under:
 ---
 - Student Rocketry
 - 6502 Emulator in Rust
-- [Guided Telescope for Satellite Tracking](/work/RAMOTS)
+- [Guided Telescope for Satellite Tracking](/work/ramots)
 - 2D Game engine written in Java: [Scaffold](https://github.com/kmg-informatik/Scaffold)
 - Krilo Keypad
