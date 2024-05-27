@@ -12,4 +12,3 @@ a mobile automatic telescope with a 16” mirror that featured an in-house seria
 communication protocol as well as using computer vision models to track the
 satelites without human interaction.
 ![Ramots Image](/images/ramots.JPG)
-Below I'll add some of the technical details:
