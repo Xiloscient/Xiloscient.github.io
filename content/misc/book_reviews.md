@@ -1,12 +1,23 @@
 ---
-title: Book Reviews
-description: a few words on some of the books I've read
+title: Book List
+description: This page lists the books I've read recently.Occasionally I've also reviewed something, feel free to click through.
 ---
-Occasionally I read a book or two and then decide to review it and post my thoughts here:
 
-- [Neuromancer: William Gibson](/misc/neuromancer)
-- [Basic Economics: Thomas Sowell](/misc/basic_econ)
-- [Elon Musk: Walter Isaacson](/misc/elon)
+- Stranger in a Strange Land: Robert Heinlein
+- The Law: Bastiat
+- Democracy in America: Alexis de Tocqueville
+- Huis clos (No Exit): Jean-Paul Sartre
+- Do Androids Dream of Electric Sheep: Phillip K. Dick
+- Julius Caesar: William Shakespeare
+- The Machiavellians: James Burnham
+- Snow Crash: Neal Stephenson
+- The Structure of Scientific Revolutions: Thomas Kuhn
+- Special Relativity and Classical Field Theory: Leonard Suskind
+- Ignition!: John D. Clark
+- The White Pill: Michael Malice
+- The Annotated Turing: Charles Petzold
+- A Fire Upon the Deep: Vernor Vinge
 - [Theft of Fire: Devon Erikssen](/misc/theft)
-
-
+- Basic Economics: Thomas Sowell
+- [Neuromancer: William Gibson](/misc/neuromancer)
+- Elon Musk: Walter Isaacson
