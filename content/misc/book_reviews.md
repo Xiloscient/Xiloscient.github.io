@@ -3,6 +3,7 @@ title: Book List
 description: This page lists the books I've read recently.Occasionally I've also reviewed something, feel free to click through.
 ---
 
+- O Alquimista: Paulo Coelho
 - Stranger in a Strange Land: Robert Heinlein
 - The Law: Bastiat
 - Democracy in America: Alexis de Tocqueville
