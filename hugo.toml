@@ -34,10 +34,10 @@ pygmentsCodeFences = true
   name = 'github'
   url = 'https://github.com/Xiloscient'
   weight = 10
-#[[menu.socials]]
-#  name = 'twitter'
-#  url = 'https://twitter.com/PandoXiloscient'
-#  weight = 20
+[[menu.socials]]
+  name = 'twitter'
+  url = 'https://twitter.com/PandoXiloscient'
+  weight = 20
 [[menu.socials]]
   name = 'CV'
   url = 'https://felixkunze.xyz/CV_Kunze.pdf'
