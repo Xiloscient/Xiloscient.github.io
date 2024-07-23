@@ -18,7 +18,7 @@ description: This page lists the books I've read recently. Occasionally I've als
 - The White Pill: Michael Malice
 - The Annotated Turing: Charles Petzold
 - A Fire Upon the Deep: Vernor Vinge
-- [Theft of Fire: Devon Erikssen](/misc/theft)
+- Theft of Fire: Devon Eriksen
 - Basic Economics: Thomas Sowell
-- [Neuromancer: William Gibson](/misc/neuromancer)
+- Neuromancer: William Gibson
 - Elon Musk: Walter Isaacson
