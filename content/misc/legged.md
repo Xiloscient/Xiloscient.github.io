@@ -36,6 +36,12 @@ that is very valueable, but few times will someone fall from
 a multi story building.
 ![Fluid saving](/images/new_pneumatics.png)[^2]
 
+Just to summarize. I think it's relatively improbable that the approach works.
+Mainly, we can't stick the adequate pneumatics and resistance structures into the 3kg package.
+
+Probably better to simply integrate good walking legs into a design that can actually fall the required distance
+
+
 
 [^1]:[Patent Source](https://patents.google.com/patent/CN103991487A/en)
 [^2]:[Paper Source](https://www.mdpi.com/2075-1702/11/2/236)
