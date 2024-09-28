@@ -33,8 +33,8 @@ There's a bunch of research on how to make these legs more
 resistant, but the main issue is that it's not all that
 useful. F.ex. if we can weight optimize for a 3m earth fall
 that is very valueable, but few times will someone fall from
-a multi storry building
-![Fluid saving](/images/new_pneuamatics.png)[^2]
+a multi story building.
+![Fluid saving](/images/new_pneumatics.png)[^2]
 
 
 [^1]:[Patent Source](https://patents.google.com/patent/CN103991487A/en)
