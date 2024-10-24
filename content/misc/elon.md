@@ -1,13 +1,10 @@
 ---
 title: Elon Musk by Walter Isaacson
 description: Book Review Elon Musk Biography
+date: 2023-11-16
 ---
+> Score: 8
 
-## Info
-- Date of finishing: 16/11/23
-- Date of writing review: 17/11/23
-- Score: 8
-## Short Report
 Overall an excellent read. Isaacsons writing style is very distinct and
 surprisingly near identical to his talking. Nonetheless a significantly more
 thorough telling of Mr. Musk's life than the Ashlee Vance book. Particularly

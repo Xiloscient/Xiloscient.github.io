@@ -1,11 +1,10 @@
 ---
 title: Neuromancer by William Gibson
 description: Book Review Neuromancer
+date: 2023-11-29
 ---
-## Info
-- Date of finishing: 29/11/23
-- Date of writing review: 29/11/23
-- Score: 8
+> Score: 8
+
 ## Spoiler Free
 > The sky above the port was the color of television, tuned to a dead channel.
 
