@@ -1,7 +1,7 @@
 ---
 title: Basic Economics by Thomas Sowell
 description: Book review Basic Economics
-date:2023-07-12
+date: 2023-07-12
 ---
 > Score: 9
 

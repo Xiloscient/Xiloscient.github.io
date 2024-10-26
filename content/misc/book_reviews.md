@@ -19,10 +19,10 @@ description: This page lists the books I've read recently. Occasionally I've als
 - The Structure of Scientific Revolutions: Thomas Kuhn
 - Special Relativity and Classical Field Theory: Leonard Suskind
 - Ignition!: John D. Clark
-- [The White Pill: Michael Malice](misc/white_pill)
-- [The Annotated Turing: Charles Petzold](misc/turing)
-- [A Fire Upon the Deep: Vernor Vinge](misc/fire)
-- [Theft of Fire: Devon Eriksen](misc/theft)
-- [Basic Economics: Thomas Sowell](misc/basic_econ)
-- [Neuromancer: William Gibson](misc/neuromancer)
+- [The White Pill: Michael Malice](/misc/white_pill)
+- [The Annotated Turing: Charles Petzold](/misc/turing)
+- [A Fire Upon the Deep: Vernor Vinge](/misc/fire)
+- [Theft of Fire: Devon Eriksen](/misc/theft)
+- [Basic Economics: Thomas Sowell](/misc/basic_econ)
+- [Neuromancer: William Gibson](/misc/neuromancer)
 - [Elon Musk: Walter Isaacson](/misc/elon)

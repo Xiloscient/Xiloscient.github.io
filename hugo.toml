@@ -23,12 +23,12 @@ pygmentsCodeFences = true
   title = 'Felix Kunze | work'
   url = '/work/'
   weight = 30
-#[[menu.main]]
-#  identifier = 'thoughts'
-#  name = 'thoughts'
-#  title = 'Felix Kunze | thoughts'
-#  url = '/thoughts/'
-#  weight = 40
+[[menu.main]]
+  identifier = 'reviews'
+  name = 'book reviews'
+  title = 'Felix Kunze | thoughts'
+  url = '/misc/book_reviews/'
+  weight = 40
 
 [[menu.socials]]
   name = 'github'
