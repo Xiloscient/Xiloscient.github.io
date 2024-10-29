@@ -1,6 +1,6 @@
 ---
-title: Elon Musk by Walter Isaacson
-description: Book Review Elon Musk Biography
+title: Elon Musk
+description: Walter Isaacson
 date: 2023-11-16
 ---
 > Score: 8

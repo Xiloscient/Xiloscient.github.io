@@ -1,6 +1,6 @@
 ---
-title: Neuromancer by William Gibson
-description: Book Review Neuromancer
+title: Neuromancer
+description: William Gibson
 date: 2023-11-29
 ---
 > Score: 8

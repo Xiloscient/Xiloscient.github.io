@@ -1,6 +1,6 @@
 ---
-title: Relativity & Classical FT by L. Susskind
-description: Book Review Theft of Fire
+title: Relativity & Classical Field Theory
+description: Leonard Susskind
 date: 2024-03-23
 ---
 

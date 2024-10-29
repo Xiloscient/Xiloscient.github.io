@@ -1,6 +1,6 @@
 ---
-title: The White Pill by Michael Malice
-description: Book Review "The White Pill"
+title: The White Pill
+description: Michael Malice
 date: 2024-02-25
 ---
 > Score: 9

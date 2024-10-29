@@ -1,6 +1,6 @@
 ---
-title: A Fire Upon the Deep by Vernor Vinge
-description: Book Review fire upon the dep
+title: A Fire Upon the Deep
+description: Vernor Vinge
 date: 2024-01-14
 ---
 > Score: 8

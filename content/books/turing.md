@@ -1,6 +1,6 @@
 ---
-title: Annotated Turing by Charles Petzold
-description: Reviewing "The Annotated Turing; A Guided Tour Through Alan Turing’s Historic Paper on Computability and the Turing Machine"
+title: Annotated Turing 
+description: Charles Petzold & Alan Turing
 date: 2024-01-14
 ---
 > Score: 7

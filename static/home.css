@@ -23,7 +23,7 @@ span.chrono-list-date {
 }
 
 span.chrono-list-date:after {
-    content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
 span.seemore > a {

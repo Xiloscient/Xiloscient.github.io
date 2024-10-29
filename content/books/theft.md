@@ -1,6 +1,6 @@
 ---
-title: Theft of Fire by Devon Eriksen
-description: Book Review Theft of Fire
+title: Theft of Fire
+description: Devon Eriksen
 date: 2024-01-05
 ---
 > Score: 7
