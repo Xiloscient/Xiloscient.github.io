@@ -27,7 +27,7 @@ pygmentsCodeFences = true
   identifier = 'reviews'
   name = 'book reviews'
   title = 'Felix Kunze | thoughts'
-  url = '/misc/book_reviews/'
+  url = '/books/'
   weight = 40
 
 [[menu.socials]]
