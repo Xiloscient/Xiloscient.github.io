@@ -6,6 +6,10 @@ subtitle: projects
 This page lists the books I've read recently. Occasionally I've also reviewed something, feel free to click through.
 
 
+* Die Kunst recht zu behalten: Schopenhauer
+* Siddharta: Herman Hesse
+* White Noise: Don deLillo
+* The Tempest: Shakespeare
 * Blood Meridian: Cormac McCarthy
 * The Stranger: Camus
 * The Romantic Manifesto: Ayn Rand
@@ -18,7 +22,3 @@ This page lists the books I've read recently. Occasionally I've also reviewed so
 * Do Androids Dream of Electric Sheep: Phillip K. Dick
 * Julius Caesar: William Shakespeare
 * The Machiavellians: James Burnham
-* Snow Crash: Neal Stephenson
-* The Structure of Scientific Revolutions: Thomas Kuhn
-* Special Relativity and Classical Field Theory: Leonard Suskind
-* Ignition!: John D. Clark
